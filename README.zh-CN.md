@@ -248,6 +248,10 @@ Agent 1: +++
 ## 更多文档
 请参考[这里](docs/README.md)查阅更多文档[Documents](docs/README.md)。API文档在我们的[网站](http://www.rlcard.org)中。
 
+**中文开发文档：**
+*   [项目源码分析与二次开发教材](docs/source-code-analysis-and-development-guide.md): 详细的源码结构分析、核心组件解析和二次开发指南
+*   [实战教程示例](examples/tutorial_demo.py): 配套的实践代码示例，演示环境分析和智能体开发
+
 ## 贡献
 我们非常感谢对本项目的贡献！请为反馈或漏洞创建Issue。如果您想恭喜代码，请参考[贡献指引](./CONTRIBUTING.md)。如果您有任何问题，请联系通过[daochen.zha@rice.edu](mailto:daochen.zha@rice.edu)联系[Daochen Zha](https://github.com/daochenzha)
 

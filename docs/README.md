@@ -19,6 +19,7 @@ The toolkit wraps each game by `Env` class with easy-to-use interfaces. The goal
 *   [Adding new environments](adding-new-environments.md)
 *   [Customizing environments](customizing-environments.md)
 *   [Adding pre-trained/rule-based models](adding-models.md)
+*   [Source Code Analysis and Development Guide (Chinese)](source-code-analysis-and-development-guide.md)
 
 ## Application Programming Interface (API)
 The API documents are and available at [Official Website](http://www.rlcard.org).
